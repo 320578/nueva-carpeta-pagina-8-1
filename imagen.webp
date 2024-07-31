@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<!-- saved from url=(0106)file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Contactos.html -->
+<html lang="es"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto integrado</title>
+    <link rel="stylesheet" href="./imagen_files/estilos.css">
+    <link rel="stylesheet" href="./imagen_files/menu.css">
+</head>
+<body>
+    <div class="principal">
+
+<!--Menu desplegable--->
+    <div id="menu">
+        <ul class="nav">
+            <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/index.html">Inicio</a></li>
+            
+            <li>
+                <a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Contactos.html#">Tecnología e informática</a>
+                <ul>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/perido%20uno.html">Período uno</a></li>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Tecnologia.html">Período dos</a></li>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Contactos.html#">Período tres</a></li>
+                   
+                   
+                </ul>
+            </li>
+            
+            <li>
+                <a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Contactos.html#">sociales</a>
+                <ul>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/perido%20uno.html">Período uno</a></li>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/sociales.html">Periodo dos</a></li>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Contactos.html#">Período tres</a></li>
+                   
+                </ul>
+            </li>
+
+            <li>
+                <a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Contactos.html#">ingles
+
+                </a>
+                <ul>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/perido%20uno.html">Período uno</a></li>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/ingles.html">Periodo dos</a></li>
+                    <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Contactos.html#">Período tres</a></li>
+                   
+                </ul>
+            </li>
+
+           
+
+
+            <li><a href="file:///C:/Users/Lina/Downloads/nueva-carpeta-pagina-8-1-main/nueva-carpeta-pagina-8-1-main/Contactos.html">Contacto</a></li>
+        </ul>
+    </div>
+
+<!--Menu desplegable--->
+
+<div class="texto">
+    <div class="titulo"> Contactos</div>
+  <br>
+  alison lorena perez 
+
+  luciana florez cuervo
+
+  luciana orozco cano
+  
+   <br>
+
+</div>
+
+</div>
+
+
+</body></html>

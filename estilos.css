@@ -31,3 +31,11 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     break-after:no-repeat;
     float: left;
 }
+
+.img1{ 
+    height: 300px;
+    width: 300px;
+    background-image: url("anorencia.html");
+}
+    
+

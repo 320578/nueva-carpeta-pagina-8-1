@@ -32,6 +32,14 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     float: left; 
     }
         
-
+    .img1{
+        height: 280px;
+        width: 300px;
+        background-image: url("rmlt.png") ;
+        break-after:no-repeat;
+        float: left; 
+        }
+            
+    
     
   

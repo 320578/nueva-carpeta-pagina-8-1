@@ -17,6 +17,7 @@ body{
 
 }
 .titulo{
+    width: 150;
 font-size:70px;
 color: rgb(248, 244, 244);
 text-align: center;
@@ -33,11 +34,16 @@ font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     }
         
 .scr2 {
-    height: 565px;
-    width: 1000px;
+    height: 600px;
+    width: 1600px;
     background-image: url("mapamental.png") ;
-    break-after:no-repeat;
-    float: left; 
+    background-repeat: no-repeat;
+   float: center;
+}
+.reflexsoc{
+text-align: center;
+height: 40px;
+width: 1600px;
 }
 
     

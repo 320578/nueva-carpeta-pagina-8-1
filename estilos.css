@@ -45,8 +45,119 @@ text-align: center;
 height: 40px;
 width: 1600px;
 }
-
+.img2{
+height: 200px;
+width: 280px;
+background-image: url("trastornos.jpeg");
+background-repeat:no-repeat ;
+float: left;
+}
     
+.img3{
+height: 310px;
+width: 306px;
+background-image: url("anorexia.jpg");
+background-repeat:no-repeat ;
+float: left;
+    }
+.img4{
+height: 265px;
+width: 380px;
+background-image: url("img4.jpg");
+background-repeat:no-repeat ;
+ float: left;
+}
+.img5{
+ height: 360px;
+width: 360px;
+background-image: url("img5.png");
+background-repeat:no-repeat ;
+float: left;
+}
+.img6{
+height: 474px;
+width: 620px;
+background-image: url("img6.avif");
+background-repeat:no-repeat ;
+float: left;
+}
+.img7{
+height: 390px;
+width: 580px;
+background-image: url("img7.jpg");
+background-repeat:no-repeat ;
+float: left;
+}
+.img8{
+ height: 338px;
+width: 338px;
+background-image: url("img8.avif");
+background-repeat:no-repeat ;
+float: left;
+}
+.img9{
+ height: 460px;
+ width: 540px;
+ background-image: url("img9.webp");
+ background-repeat:no-repeat ;
+ float: left;
+}
+.img10{
+height: 256px;
+width: 256px;
+background-image: url("img10.jpg");
+background-repeat:no-repeat ;
+float: left;
+}
+.img11{
+height: 420px;
+width: 480px;
+background-image: url("img11.jpeg");
+background-repeat:no-repeat ;
+float: left;
+}
+.img12{
+height: 300px;
+width: 330px;
+background-image: url("img12.jpg");
+background-repeat:no-repeat ;
+float: left;
+}
+.img13{
+ height: 750px;
+ width: 580px;
+ background-image: url("img13.jpg");
+ background-repeat:no-repeat ;
+ float: left;
+}
+.img14{
+height: 450px;
+width: 508px;
+background-image: url("img14.jpg");
+background-repeat:no-repeat ;
+float: left;
+ }
+.img15{
+height: 512px;
+width: 512px;
+background-image: url("img15.avif");
+background-repeat:no-repeat ;
+float: left;
+}
+.img16{
+height: 626px;
+width: 560px;
+background-image: url("img16.avif");
+background-repeat:no-repeat ;
+float: left;
+ }
+.img17{
+ height: 600px;
+ width: 506px;
+ background-image: url("img17.jpg");
+background-repeat:no-repeat ;
+float: left;
+ }
 
        
 

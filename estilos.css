@@ -158,6 +158,38 @@ float: left;
 background-repeat:no-repeat ;
 float: left;
  }
+ .img18{
+
+    height: 600px;
+    width: 506px;
+    background-image: url("img17.jpg");
+   background-repeat:no-repeat ;
+   float: left;
+}
+.img19{
+
+    height: 600px;
+    width: 506px;
+    background-image: url("aslhey.avif");
+   background-repeat:no-repeat ;
+   float: left;
+}
+.img20{
+
+    height: 600px;
+    width: 506px;
+    background-image: url("luciana.jpg");
+   background-repeat:no-repeat ;
+   float: left;
+}
+.img21{
+
+    height: 600px;
+    width: 506px;
+    background-image: url("rfofofdolfd.webp");
+   background-repeat:no-repeat ;
+   float: left;
+}
 
        
 

@@ -22,7 +22,6 @@ color: rgb(81, 69, 255);
 text-align: center;
 font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 
-
 }
     
 
@@ -208,6 +207,13 @@ float: left;
    float: left;
 
 
+}
+.imgf{
+    height: 540px;
+    width: 1040px;
+    background-image: url("sociales\ mapa\ conceptual.PNG");
+   background-repeat:no-repeat ;
+   float: left;
 }
 
        

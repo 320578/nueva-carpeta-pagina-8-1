@@ -216,7 +216,54 @@ float: left;
    float: left;
 }
 
-       
+.img.a{
+    height: 540px;
+    width: 1040px;
+    background-image: url("img.a");
+   background-repeat:no-repeat ;
+   float: left;
+}
+.img.b{
+    height: 540px;
+    width: 1040px;
+    background-image: url("img.b.PNG");
+   background-repeat:no-repeat ;
+   float: left;
+
+}    
+.img.c{
+    height: 540px;
+    width: 1040px;
+    background-image: url("img.c");
+   background-repeat:no-repeat ;
+   float: left;
+
+}
+.img.d{
+    height: 540px;
+    width: 1040px;
+    background-image: url("img.d");
+   background-repeat:no-repeat ;
+   float: left;
+
+}
+.img.e{
+    height: 540px;
+    width: 1040px;
+    background-image: url("img.e.PNG");
+   background-repeat:no-repeat ;
+   float: left;
+
+}
+.img.f{
+
+    height: 540px;
+    width: 1040px;
+    background-image: url("img.f.PNG");
+   background-repeat:no-repeat ;
+   float: left;
+
+}
 
 
             
